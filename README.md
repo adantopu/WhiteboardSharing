@@ -1,6 +1,17 @@
 # WhiteboardSharing
  Whiteboard with multiUser interaction
 
+ 
+## Made using this language:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
+
+## Made using this framework:
+[![My Skills](https://skillicons.dev/icons?i=nodejs,tailwind,npm,react,express)](https://skillicons.dev)
+
+## Made using this IDE and OS:
+[![My Skills](https://skillicons.dev/icons?i=vscodium,mint)](https://skillicons.dev)
+
+
 ## To Install
 
 1. Ensure Node.js is installed
